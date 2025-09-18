@@ -1,1 +1,2 @@
-cli_command = 'PGPASSWORD=sCVegvKaBqZ5c*J+Hv2d2+tMxyyxOf4BU6NkZF2Wq1L+Kw psql -h12.13.251.200 -UGTf9H5oYcO62iD -p 963'
+cli_command = 'PGPASSWORD=sCVegvKbBqZ5c*J+Hv2d2+tMxyyxOf4BU6NkZF2Wq1L+Kw psql -h12.13.251.200 -UGTf9H5oYcO62iD -p 963'
+
